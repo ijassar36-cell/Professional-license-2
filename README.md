@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+هذا النموذج يحاكي اختبار الرخصة المهنية العام 
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="utf-8"/>
